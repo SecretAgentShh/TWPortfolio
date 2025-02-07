@@ -4,7 +4,8 @@ C'est Quoi? A collection of my work in the field of documentation and Technical 
 ## About Me
 I would love to introduce myself as a writer whose words speak on my behalf and sometimes even more. A humble list of my achievements would include
 * School Journalist for Nie Times of India National Newspaper for schools - 2 years
-* Research enthusiast in the field of Computer Vision
+* Research enthusiast in the field of Computer Vision - 1 year
+* Created user manuals and onboarding guides for a cool software company - 1 year
 
 ## Tech Blogging
 Medium Link - [Sharon Chatragadda](https://medium.com/@thatssorandomms)
