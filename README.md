@@ -10,6 +10,9 @@ I would love to introduce myself as a writer whose words speak on my behalf and 
 ## Tech Blogging
 Medium Link - [Sharon Chatragadda](https://medium.com/@thatssorandomms)
 
+## User Guide
+Want to ride the ChatGPT wave? Here is a [guide to effective prompting in ChatGPT](https://www.notion.so/How-to-Use-ChatGPT-Beginner-s-Guide-194372afed8880659f75cb70c721273c?pvs=4)
+
 ### Software Documentation
 Collaborative work documentation - [Software Engineering Practices Project](https://github.com/meyruiz/MACS-Soen6011summer2023/wiki)
 
