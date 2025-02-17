@@ -8,7 +8,7 @@ I would love to introduce myself as a writer whose words speak on my behalf and 
 * Created user manuals and onboarding guides for a cool software company - 1 year
 
 ## User Guide
-1. Check out my guide to getting started with [Openmind](https://github.com/SecretAgentShh/TWPortfolio/wiki/OPENMIND-User-Guide) - My first contribution to Open Source!
+1. Check out my guide to getting started with [Openmind](https://github.com/SecretAgentShh/TWPortfolio/wiki/OPENMIND-User-Guide) - Includes my first contribution to Open Source!
 
 ## Tech Blogging
 Medium Link - [Sharon Chatragadda](https://medium.com/@thatssorandomms) - All about reviews and critiques on research papers about Large Language Models (LLMs)
