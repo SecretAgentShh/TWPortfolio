@@ -12,7 +12,7 @@ A humble list of my achievements would include:
 
 ## User Guides
 1. Check out my guide to getting started with [Openmind](https://github.com/SecretAgentShh/TWPortfolio/wiki/OPENMIND-User-Guide) - Includes my first contribution to Open Source!
-2. Guide to using my favourite web browser [Brave](https://medium.com/@thatssorandomms/tired-of-ads-try-brave-guide-to-using-the-brave-browser-9cfaeebd695a)
+2. Guide to using my favourite web browser [Brave.](https://medium.com/@thatssorandomms/tired-of-ads-try-brave-guide-to-using-the-brave-browser-9cfaeebd695a)
 
 ## Tech Blogging
 Medium Link - [Sharon Chatragadda](https://medium.com/@thatssorandomms) - All about reviews and critiques on research papers about Large Language Models (LLMs)
