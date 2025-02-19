@@ -18,7 +18,7 @@ A humble list of my achievements would include:
 Medium Link - [Sharon Chatragadda](https://medium.com/@thatssorandomms) - All about reviews and critiques on research papers about Large Language Models (LLMs).
 
 ### Research Paper
-Our Major Project made it Big! - [Real-time Telugu Sign Language Translator with Computer Vision](https://www.ijraset.com/research-paper/real-time-telugu-sign-language-translator-with-computer-vision).
+Our Major Project made it Big! - [Real-time Telugu Sign Language Translator with Computer Vision](https://www.ijraset.com/research-paper/real-time-telugu-sign-language-translator-with-computer-vision)
 
 
 #### Software Documentation
