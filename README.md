@@ -15,10 +15,10 @@ A humble list of my achievements would include:
 2. Guide to using my favourite web browser [Brave.](https://medium.com/@thatssorandomms/tired-of-ads-try-brave-guide-to-using-the-brave-browser-9cfaeebd695a)
 
 ## Tech Blogging
-Medium Link - [Sharon Chatragadda](https://medium.com/@thatssorandomms) - All about reviews and critiques on research papers about Large Language Models (LLMs)
+Medium Link - [Sharon Chatragadda](https://medium.com/@thatssorandomms) - All about reviews and critiques on research papers about Large Language Models (LLMs).
 
 ### Research Paper
-Our Major Project made it Big! - [Real-time Telugu Sign Language Translator with Computer Vision](https://www.ijraset.com/research-paper/real-time-telugu-sign-language-translator-with-computer-vision)
+Our Major Project made it Big! - [Real-time Telugu Sign Language Translator with Computer Vision](https://www.ijraset.com/research-paper/real-time-telugu-sign-language-translator-with-computer-vision).
 
 
 #### Software Documentation
