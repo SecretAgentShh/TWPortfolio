@@ -10,6 +10,9 @@ A humble list of my achievements would include:
 * Created user manuals and onboarding guides for a cool software company - 1 year
 * Current interest in LMMs lead me to a course where I created 11 summaries and few critiques of research papers.
 
+## UX Designing
+My take on the [Daily UX Writing Challenge](https://dailyuxwriting.com) - [here!](https://medium.com/p/6af9487bda27/edit)
+
 ## User Guides
 1. Check out my guide to getting started with [Openmind](https://github.com/SecretAgentShh/TWPortfolio/wiki/OPENMIND-User-Guide) - Includes my first contribution to Open Source!
 2. Guide to using my favourite web browser [Brave.](https://medium.com/@thatssorandomms/tired-of-ads-try-brave-guide-to-using-the-brave-browser-9cfaeebd695a)
