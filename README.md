@@ -23,6 +23,8 @@ Medium Link - [Sharon Chatragadda](https://medium.com/@thatssorandomms) - All ab
 ### Research Paper
 Our Major Project made it Big! - [Real-time Telugu Sign Language Translator with Computer Vision](https://www.ijraset.com/research-paper/real-time-telugu-sign-language-translator-with-computer-vision)
 
+### Copywriting
+Here is my poster for a Baking Company's Holiday Promotion based on learning and fun with family during the holidays! - [Poster](https://github.com/SecretAgentShh/TWPortfolio/blob/main/Holiday%20Promo%20Poster%20-%20Elf%20on%20the%20Shelf.png)
 
 #### Software Documentation
 Collaborative work documentation - [Software Engineering Practices Project](https://github.com/meyruiz/MACS-Soen6011summer2023/wiki)
