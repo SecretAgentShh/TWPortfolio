@@ -10,7 +10,7 @@ A humble list of my achievements would include:
 * Created user manuals and onboarding guides for a cool software company - 1 year
 * Current interest in LMMs lead me to a course where I created 11 summaries and few critiques of research papers.
 
-## UX Designing
+## UX Writing (IN-PROGRESS): Coming Soon!
 My take on the [Daily UX Writing Challenge](https://dailyuxwriting.com) - [here!](https://medium.com/p/6af9487bda27/edit)
 
 ## User Guides
